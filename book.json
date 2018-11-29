@@ -22,14 +22,14 @@
             "wechatText": "微信打赏"
         },
         "github-buttons": {
-            "repo": "itswl/gitbook",
+            "repo": "itswl/learn_gitbook",
             "types": [
                 "star"
             ],
             "size": "small"
         },
         "edit-link": {
-            "base": "https://github.com/itswl/gitbook/edit/master",
+            "base": "https://github.com/itswl/learn_gitbook/edit/master",
             "label": "Edit This Page"
         }
     }
