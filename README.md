@@ -6,3 +6,6 @@
 
 **万一有幸被他人发现学习，那就是再好不过了。**
 
+[《 gitbook教程 》（gitbook）](https://learn-gitbook.gitbook.io/gitbook/) 
+
+[《 gitbook教程 》(github pages托管)](https://itswl.github.io/learn_gitbook/) 
